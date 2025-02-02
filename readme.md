@@ -241,7 +241,7 @@ This command builds and starts containers for the backend, MongoDB and redis.
 
 ## Contact
 
-For questions or support, please open an issue in this repository or contact hirdeshkhandelwal58@gmail.com.
+For questions or support, please open an issue in this repository or contact evagoel2210@gmail.com.
 
 ---
 
